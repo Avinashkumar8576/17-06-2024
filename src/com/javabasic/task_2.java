@@ -11,9 +11,9 @@ public class task_2 {//class started here
 		
 		int P = 10000;  // Initially borrowed amount
 		
-		int R = 5;     // Rate of Intrest in %
+		int R = 10;     // Rate of Intrest in %
 		
-		int T = 2;    // Time for which monney was borrowed
+		int T = 4;    // Time for which monney was borrowed
 		
 		int SimpleInterest = (P*R*T)/100; // formula for calculating simple interest
 		
